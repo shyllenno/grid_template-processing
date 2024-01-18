@@ -1,4 +1,6 @@
-size(800, 800);
+// Leave this code on a second tab to keep the lines up-front of your drawings.
+
+size(800, 800);  // Size as exemple only, this can be commented out
 
 int squarePixels = 50;
 
